@@ -10,6 +10,6 @@ public class MVVMTestEditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
-		ExtraModuleNames.AddRange( new string[] { "" } );
+		ExtraModuleNames.AddRange( new string[] {  } );
 	}
 }
