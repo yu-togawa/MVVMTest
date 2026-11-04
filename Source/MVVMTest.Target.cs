@@ -10,6 +10,6 @@ public class MVVMTestTarget : TargetRules
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
-		ExtraModuleNames.AddRange( new string[] { "MVVMTest" } );
+		ExtraModuleNames.AddRange( new string[] {  } );
 	}
 }
