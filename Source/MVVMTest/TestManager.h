@@ -40,30 +40,3 @@ protected:
 
 };
 
-
-//// Model
-//UCLASS(BlueprintType)
-//class MVVMTEST_API UTestManager : public UObject
-//{
-//	GENERATED_BODY()
-//
-//public:
-//	UTestManager(const FObjectInitializer& ObjectInitializer);
-//
-//protected:
-//
-//	UPROPERTY(Transient)
-//	TObjectPtr<class UTestCommonButtonViewModel> ButtonViewModel;
-//
-//public:
-//
-//	UFUNCTION(BlueprintCallable)
-//	void CreateCommonButtonWidget(TSubclassOf<class UUserWidget> InWidgetClass);
-//
-//protected:
-//
-//	UFUNCTION(BlueprintCallable)
-//	void OnCommonButtonClicked();
-//
-//};
-
